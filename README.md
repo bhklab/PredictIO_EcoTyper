@@ -1,4 +1,4 @@
-# Ecotyper
+# PredictIO_EcoTyper
 
 ### **Immune Deconvolution and Meta-Analysis**
 This repository contains scripts and outputs for immune cell deconvolution and meta-analysis of immunotherapy datasets. It aims to identify immune cell types and features associated with clinical outcomes, such as **Overall Survival (OS)**, **Progression-Free Survival (PFS)**, and **Response (R vs NR)** across various cancer types and treatments.
