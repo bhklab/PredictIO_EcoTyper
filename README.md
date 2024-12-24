@@ -1,1 +1,1 @@
-# Predictio_EcoTyper
+# PredictIO_EcoTyper
